@@ -1,0 +1,11 @@
+D:\学习资料\计科大三-上\LeaveSystem\BLL\bin\Release\BLL.dll
+D:\学习资料\计科大三-上\LeaveSystem\BLL\bin\Release\BLL.pdb
+D:\学习资料\计科大三-上\LeaveSystem\BLL\bin\Release\DAL.dll
+D:\学习资料\计科大三-上\LeaveSystem\BLL\bin\Release\Model.dll
+D:\学习资料\计科大三-上\LeaveSystem\BLL\bin\Release\DAL.pdb
+D:\学习资料\计科大三-上\LeaveSystem\BLL\bin\Release\Model.pdb
+D:\学习资料\计科大三-上\LeaveSystem\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+D:\学习资料\计科大三-上\LeaveSystem\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\学习资料\计科大三-上\LeaveSystem\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\学习资料\计科大三-上\LeaveSystem\BLL\obj\Release\BLL.dll
+D:\学习资料\计科大三-上\LeaveSystem\BLL\obj\Release\BLL.pdb

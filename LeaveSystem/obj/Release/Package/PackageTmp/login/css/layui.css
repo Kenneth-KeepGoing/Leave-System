@@ -1,0 +1,52 @@
+
+ a{
+     color:#333;
+     text-decoration:none
+ }
+ @font-face{
+     font-family:layui-icon;
+     src:url(../font/iconfont.eot?v=240);
+     src:url(../font/iconfont.eot?v=240#iefix) 
+     format('embedded-opentype'),url(../font/iconfont.svg?v=240#iconfont) 
+     format('svg'),url(../font/iconfont.woff?v=240) 
+     format('woff'),url(../font/iconfont.ttf?v=240) 
+     format('truetype')
+ }
+ .layui-icon{
+    font-family:layui-icon!important;
+    font-size:16px;
+    font-style:normal;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale
+}
+ .layui-icon-face-smile:before{
+     content:"\e6af"
+ }
+ .layui-icon-templeate-1:before{
+     content:"\e630"
+ }
+ .layui-icon-util:before{
+     content:"\e631"
+ }
+.layui-btn{
+    display:inline-block;
+    height:38px;
+    line-height:38px;
+    padding:0 18px;
+    background-color:#009688;
+    color:#fff;
+    white-space:nowrap;
+    text-align:center;
+    font-size:14px;
+    border:none;
+    border-radius:2px;
+    cursor:pointer
+}
+.layui-btn:hover{
+    opacity:.8;
+    filter:alpha(opacity=80);
+    color:#fff
+}
+.layui-btn-normal{
+    background-color:#1E9FFF
+}

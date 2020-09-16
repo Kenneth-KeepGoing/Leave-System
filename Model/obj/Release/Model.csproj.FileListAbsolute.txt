@@ -1,0 +1,5 @@
+D:\学习资料\计科大三-上\LeaveSystem\Model\bin\Release\Model.dll
+D:\学习资料\计科大三-上\LeaveSystem\Model\bin\Release\Model.pdb
+D:\学习资料\计科大三-上\LeaveSystem\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+D:\学习资料\计科大三-上\LeaveSystem\Model\obj\Release\Model.dll
+D:\学习资料\计科大三-上\LeaveSystem\Model\obj\Release\Model.pdb

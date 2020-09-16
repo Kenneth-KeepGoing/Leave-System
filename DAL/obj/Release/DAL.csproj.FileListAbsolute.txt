@@ -1,0 +1,9 @@
+D:\学习资料\计科大三-上\LeaveSystem\DAL\bin\Release\DAL.dll
+D:\学习资料\计科大三-上\LeaveSystem\DAL\bin\Release\DAL.pdb
+D:\学习资料\计科大三-上\LeaveSystem\DAL\bin\Release\Model.dll
+D:\学习资料\计科大三-上\LeaveSystem\DAL\bin\Release\Model.pdb
+D:\学习资料\计科大三-上\LeaveSystem\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\学习资料\计科大三-上\LeaveSystem\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\学习资料\计科大三-上\LeaveSystem\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\学习资料\计科大三-上\LeaveSystem\DAL\obj\Release\DAL.dll
+D:\学习资料\计科大三-上\LeaveSystem\DAL\obj\Release\DAL.pdb
