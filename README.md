@@ -2,7 +2,7 @@
 
 ①	打开系统，主界面具有界面图片切换功能如图5-1和图5-2，并且具有选择辅导员登录和学生登录两种登录模式。
  
-https://github.com/Kenneth-KeepGoing/Pic/blob/master/1.png
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/1.png)
 
 图5-1. 界面图片切换1
 
