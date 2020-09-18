@@ -6,25 +6,39 @@
 
 图5-1. 界面图片切换1
 
-https://github.com/Kenneth-KeepGoing/Pic/blob/master/1.png
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/2.png)
 
 图5-2. 界面图片切换2
 
 ②	学生操作
 学生登录时，学生的登录的界面如图5-3，当学生登录用户名密码出现错误时，弹出提示“用户名或者密码错误”（图5-4）。
 登录成功后，弹出学生的欢迎界面（图5-5）。在“学生信息”界面查看自身的具体学生档案（图5-6）和自身请假情况（图5-7）并且在此界面点击请假条信息查看操作之后能够获取请假条的详细信息（图5-8），在“请假申请”界面可以进行请假申请（图5-9）
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/3.png)
  
 图5-3. 学生登录界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/4.png)
  
 图5-4. 登录时账号或密码错误
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/5.png)
  
 图5-5. 学生欢迎界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/6.png)
  
 图5-6. 学生档案界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/7.png)
  
 图5-7. 学生请假情况界面
- 
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/8.png)
+
 图5-8. 请假条详细内容界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/9.png)
  
 图5-9. 请假申请界面
 ③	辅导员操作
@@ -42,41 +56,74 @@ https://github.com/Kenneth-KeepGoing/Pic/blob/master/1.png
 在导航栏处的搜索框还可以选择学生信息来查看学生的假条清单（图5-25），并且可以通过学生号查询，显示该学生所申请的假条。
 
 
-
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/10.png)
  
 图5-10. 辅导员登录界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/11.png)
  
 图5-11. 辅导员欢迎界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/12.png)
  
 图5-12. 用户清单界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/13.png)
  
 图5-13. 用户编辑界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/14.png)
  
 图5-14. 操作结果界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/15.png)
  
 图5-15. 用户删除界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/16.png)
  
 图5-16. 用户搜索框搜索用户界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/17.png)
  
 图5-17.学生档案信息
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/18.png)
  
 图5-18.学生请假信息
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/19.png)
  
 图5-19.学生档案修改界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/20.png)
  
 图5-20. 新增学生档案界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/21.png)
  
 图5-21. 请假申请界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/22.png)
  
 图5-22.假条审批待审批界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/23.png)
  
 图5-23. 假条审批操作界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/24.png)
  
 图5-24. 已审批假条信息界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/25.png)
  
 图5-25. 已审批假条信息操作界面
 
- 
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/26.png)
+
 图5-26. 请假条搜索界面
+
+![image](https://github.com/Kenneth-KeepGoing/Pic/blob/master/27.png)
  
 图5-27. 用户添加界面
